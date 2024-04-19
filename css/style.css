@@ -18,6 +18,7 @@ body {
     color: var(--black-color);
 }
 
+/* Menu */
 header {
     border-bottom: 1px solid var(--gray-color);
 }
@@ -171,6 +172,7 @@ main {
     font-size: 0.95rem;
 }
 
+/* Imagens */
 .photos {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -224,6 +226,7 @@ main {
     display: none;
 }
 
+/* Descrição e Preço*/
 .accomodation-infos {
     padding-top: 1.5rem;
     display: grid;
@@ -449,6 +452,8 @@ background: linear-gradient(150deg, rgba(255,56,92,1) 0%, rgba(182,58,134,1) 100
     color: var(--black-color);
     font-weight: bold;
 }
+
+/* Quartos */
 
 .rooms {
     padding: 2rem 0;
